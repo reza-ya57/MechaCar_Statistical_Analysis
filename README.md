@@ -5,7 +5,7 @@
 
 ![Multiple_Regression](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/multiple_regression.png)
 -  Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-based on the above multiple regression resolt, we can say vehicle length and ground clearance as well as intercept have significant impact on MPG, or on the other hand these varible provided non-random amount of variance to the MPG values.
+Based on the above multiple regression resolt, we can say vehicle length and ground clearance as well as intercept have significant impact on MPG, or on the other hand these varible provided non-random amount of variance to the MPG values.
 
 - Is the slope of the linear model considered to be zero? Why or why not?
 The slop of this linear model not consider as zero value. By looking at p-value in regression model we can say the value is much smaller than significance level of 5% so there is sufficient evidence to reject null hypothesis.  
