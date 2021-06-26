@@ -16,11 +16,11 @@ To answer to this question need to check the r-square value. According to this v
 ## Summary statistics on Suspension Coils
 We used multiple production lot data to study about the suspension coils quality and consistency.
 
-### In below image you can see the total summary of entire lot data.
+### In below image you can see the total summary of the entire lot.
 
 ![Total_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/Total_Summary.png)
 
-### In this table we calculate some statistical argument to study about the consistency of the products.
+### Below image is for each lot data on calculating the Mean, Median, Variance and Standard deviation. 
 
 ![Lot_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
