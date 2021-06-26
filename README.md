@@ -32,7 +32,7 @@ We run the test for entire lot as well as each lot separately.
 
 *According to the result of the t-test on the entire lot, there is no enough evidence to reject the H0 test, so we can say sample mean and population mean are statistically simillar however the p-value in this test is not significantly greater than 0.05 so it is better to check each lot separately to determine if any of the lot has a differnet mean than population mean.*
 
-> T-test on Entire Lot: 
+> T-test on Entire Lot: >
 ![t_test_lot1](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_total.png)
 
 
