@@ -21,7 +21,7 @@ For this study we used one-sample t-test method to find out if the sample mean a
 > H0: There is no statistical difference between the suspension coils sample mean and provided population mean. <br>
 > H1: There is a statistical difference between the suspension coils sample mean and provided population mean.
 
-_Significance level for this test is 95%_
+**Significance level for this test is 95%**
 
 *To examine the hypothesis test we evaluate the p-value and compare it with ourt significance level.*
 
