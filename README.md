@@ -52,7 +52,10 @@ T-test on Lot 2: <br>
 *By looking at the t-test result on this lot we can see the p-value amount is lower than our significance level which is 0.05 so we can reject the H0 test and say mean of sample and mean o f population is not statistically simillar. Therefor product team need to dig into this issue and figure out the root cause of this non similarity*
 
 T-test on Lot 3: <br>
-![t_test_lot3](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot3.png)In your README, create a subheading ## T-Tests on Suspension Coils, then 
+![t_test_lot3](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot3.png)
+
+
+In your README, create a subheading ## T-Tests on Suspension Coils, then 
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
