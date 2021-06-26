@@ -40,7 +40,7 @@ T-test on Entire Lot: <br>
 *p-value in lot 1 is one and it is significantly higher than our tresh hold so we can say sample mean and population mean are statistically simillar.
 
 T-test on Lot 1: <br>
-![t_test_lot1]((https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot1.png)
+![t_test_lot1](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot1.png)
 
 In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
