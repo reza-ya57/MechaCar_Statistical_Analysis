@@ -18,7 +18,7 @@ To answer to this question need to check the r-square value. According to this v
 We used multiple production lot data to study about the suspension coils quality and consistency.
 For this study we used one-sample t-test method to find out if the sample mean and population mean have a statistical diference or not. The hypothesis test for this assumption is as below:
 
-> H0: There is no statistical difference between the suspension coils sample mean and provided population mean.
+> H0: There is no statistical difference between the suspension coils sample mean and provided population mean. <br>
 > H1: There is a statistical difference between the suspension coils sample mean and provided population mean.
 
 ### In below image you can see the total summary of the entire lot.
