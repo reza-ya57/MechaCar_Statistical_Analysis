@@ -13,6 +13,27 @@ The slop of this linear model not consider as zero value. By looking at p-value 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 To answer to this question need to check the r-square value. According to this value (0.71) we can say this model can predict MPG of MechaCar prototypes efficiently.
 
+## Summary statistics on Suspension Coils
+We used multiple production lot data to study about the suspension coils quality and consistency.
+
+### In below image you can see the total summary of entire lot data.
+
+![Total_Summary]("")
+
+### In this table we calculate some statistical argument to study about the consistency of the products.
+
+![Lot_Summary] ("")
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? In total we can say variance of the suspension coils meet the criteria and is below than 100 PSI. According to total summary report variuanse is 62.29. But if you look at the each lot summary report, it is obvious that PSI parameter is not really consistent in different lot and you can see the big gap in lot 3 compare to the lot 1 and lot 2 data. 
+
+
+
+
+In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+
+
+
+
 A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
 In this challenge, you’ll help Jeremy and the data analytics team do the following:
