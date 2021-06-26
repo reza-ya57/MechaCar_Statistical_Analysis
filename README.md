@@ -23,7 +23,7 @@ For this study we used one-sample t-test method to find out if the sample mean a
 
 _Significance level for this test is 95%_
 
-*To examine the hypothesis test we evaluate the p-value and compare it with ourt significance level. 
+*To examine the hypothesis test we evaluate the p-value and compare it with ourt significance level.*
 
 ### In below image you can see the total summary of the entire lot.
 
