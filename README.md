@@ -34,7 +34,7 @@ For this study we used one-sample t-test method to find out if the sample mean a
 ![Lot_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? <br>
-*In total we can say variance of the suspension coils meet the criteria and is below than 100 PSI. According to total summary report variuanse is 62.29. But if you look at the each lot summary report, it is obvious that PSI parameter is not really consistent in different lot and you can see the big gap in lot 3 compare to the lot 1 and lot 2 data. *
+*In total we can say variance of the suspension coils meet the criteria and is below than 100 PSI. According to total summary report variuanse is 62.29. But if you look at the each lot summary report, it is obvious that PSI parameter is not really consistent in different lot and you can see the big gap in lot 3 compare to the lot 1 and lot 2 data.*
 
 ## T-Test on suspension Coils
 In this section we used t-test to determine if the manufacturing lots are statistically different from the mean population.
@@ -63,29 +63,3 @@ T-test on Lot 2: <br>
 
 T-test on Lot 3: <br>
 ![t_test_lot3](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot3.png)
-
-
-In your README, create a subheading ## T-Tests on Suspension Coils, then 
-
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
-
-
-In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
-
-
-
-
-A few weeks after starting his new role, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
-
-In this challenge, you’ll help Jeremy and the data analytics team do the following:
-
-
-Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
-Run t-tests to determine if the manufacturing lots are statistically different from the mean population
-Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
-
-
-
-
-
-
