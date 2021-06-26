@@ -63,3 +63,5 @@ T-test on Lot 2: <br>
 
 T-test on Lot 3: <br>
 ![t_test_lot3](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot3.png)
+
+
