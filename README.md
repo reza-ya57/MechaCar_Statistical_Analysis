@@ -18,7 +18,7 @@ We used multiple production lot data to study about the suspension coils quality
 
 ### In below image you can see the total summary of entire lot data.
 
-![Total_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+![Total_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/Total_summary.png)
 
 ### In this table we calculate some statistical argument to study about the consistency of the products.
 
