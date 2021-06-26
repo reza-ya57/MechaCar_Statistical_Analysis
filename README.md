@@ -31,7 +31,7 @@ In this section we used t-test to determine if the manufacturing lots are statis
 We run the test for entire lot as well as each lot separately.
 
 According to the result of the t-test on the entire lot, there is no enough evidence to reject the H0 test, so we can say sample mean and population mean are statistically simillar however the p-value in this test is not significantly greater than 0.05 so it is better to check each lot separately to determine if any of the lot has a differnet mean than population mean. 
-![t_test_lot1](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot1.png
+![t_test_lot1](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/t_test_Lot1.png)
 
 
 In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
