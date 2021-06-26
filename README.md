@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG  
-### AutosRUs is working on new protoype vehicle, the MechaCar. In this study we try to find the relationship of the varibles which are impact on fuel efficiency in new machine. Manager can use the result of this study to figure out how can improve the new prototype in order to have better fuel efficiency compare to other models. 
+### AutosRUs is working on new protoype vehicle, the MechaCar. In this study we try to find the relationship of the varibles which are impact on fuel efficiency in new machine.Then we try to figure out if suspension coils supplier provide consistent product among different lot that we already recieved. 
+### Manager can use the result of this study to find the answer of how can improve the new prototype in order to have better fuel efficiency compare to other models. 
 ### we used multiple regression method to study on the variable relationship and predict the MPG of MechaCar prototypes.
 
 ![Multiple_Regression](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/multiple_regression.png)
@@ -15,6 +16,10 @@ To answer to this question need to check the r-square value. According to this v
 
 ## Summary statistics on Suspension Coils
 We used multiple production lot data to study about the suspension coils quality and consistency.
+For this study we used one-sample t-test method to find out if the sample mean and population mean have a statistical diference or not. The hypothesis test for this assumption is as below:
+
+> H0: There is no statistical difference between the suspension coils sample mean and provided population mean.
+> H1: There is a statistical difference between the suspension coils sample mean and provided population mean.
 
 ### In below image you can see the total summary of the entire lot.
 
