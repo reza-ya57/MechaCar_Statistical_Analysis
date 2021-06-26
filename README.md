@@ -34,7 +34,7 @@ For this study we used one-sample t-test method to find out if the sample mean a
 ![Lot_Summary](https://github.com/reza-ya57/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? <br>
-*In total we can say variance of the suspension coils meet the criteria and is below than 100 PSI. According to total summary report variuanse is 62.29. But if you look at the each lot summary report, it is obvious that PSI parameter is not really consistent in different lot and you can see the big gap in lot 3 compare to the lot 1 and lot 2 data.*
+*Overally we can say variance of the suspension coils meet the criteria and is below than 100 PSI. According to total summary report variuanse is 62.29. But if you look at the each lot summary report, it is obvious that PSI parameter is not really consistent in different lot and you can see the big gap in lot 3 compare to the lot 1 and lot 2 data.*
 
 ## T-Test on suspension Coils
 In this section we used t-test to determine if the manufacturing lots are statistically different from the mean population.
